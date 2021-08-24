@@ -1,0 +1,25 @@
+h1{
+color: purple;
+font-family:Georgia, 'Times New Roman', Times, serif;
+}
+table{
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style:'initial';
+    border-color: orchid
+} 
+
+th{
+    font-weight: 800;
+    background-color: orchid;
+}
+#menu-bar a{
+    font-family:'initial', sans-serif;
+    text-decoration:none;
+    background-color: plum;
+    padding: 5px;
+}
+#menu-bar a:hover{
+    background-color:pink;
+    color: linen;
+}
